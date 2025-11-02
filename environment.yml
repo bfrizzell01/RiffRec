@@ -1,4 +1,4 @@
-name: riffwizard
+name: riffrec
 channels:
   - conda-forge
 dependencies:
